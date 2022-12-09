@@ -1,0 +1,36 @@
+{
+    "fase" : "Cuartos de final - Qatar 2022",
+    "descripcion" : "Se trata de 4 partidos directos entre 8 equipos, con el objetivo de encontrar un ganador por partido que pasará a la siguiente fase",
+    "goleador" : "Kylian Mbappe 5 - Goles",
+    "asistidor" : "Bruno Fernandez - 3 Asistencias",
+    "partidos" : [
+        {
+            "partido_uno" : "Brasil vs Croacia",
+            "escudo_br" : "https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_96x96.png",
+            "escudo_cr" : "https://ssl.gstatic.com/onebox/media/sports/logos/9toerdOg8xW4CRhDaZxsyw_96x96.png",
+            "resultado" : "",
+            "mvp" : ""
+        },
+        {
+            "partido_dos" : "Holanda vs Croacia",
+            "escudo_ho" : "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_96x96.png",
+            "escudo_ar" : "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_96x96.png",
+            "resultado" : "",
+            "mvp" : ""
+        },
+        {
+            "partido_uno" : "Portugal vs Marruecos",
+            "escudo_po" : "https://ssl.gstatic.com/onebox/media/sports/logos/HJ3_2c4w791nZJj7n-Lj3Q_96x96.png",
+            "escudo_ma" : "https://ssl.gstatic.com/onebox/media/sports/logos/I3gt2Ew39ux3GGdZ-4JE3g_96x96.png",
+            "resultado" : "",
+            "mvp" : ""
+        },
+        {
+            "partido_uno" : "Francia vs Inglaterra",
+            "escudo_fr" : "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_96x96.png",
+            "escudo_in" : "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
+            "resultado" : "",
+            "mvp" : ""
+        }
+    ]
+}
