@@ -1,6 +1,6 @@
 {
     "fase" : "Cuartos de final - Qatar 2022",
-    "descripcion" : "Se trata de 4 partidos directos entre 8 equipos, con el objetivo de encontrar un ganador por partido que pasará a la siguiente fase",
+    "descripcion" : "Se trata de 4 partidos directos entre 8 equipos, con el objetivo de encontrar un ganador por partido que pasará a la siguiente fase, para este caso a continuación se muestran los equipos ganadores, el goleador del torneo y el mayor asistidor hasta esta instnacia del mundial 2022.",
     "goleador" : "Kylian Mbappe 5 - Goles",
     "asistidor" : "Bruno Fernandez - 3 Asistencias",
     "partidos" : [
@@ -8,8 +8,8 @@
             "partido" : "Brasil vs Croacia",
             "escudo_uno" : "https://ssl.gstatic.com/onebox/media/sports/logos/zKLzoJVYz0bb6oAnPUdwWQ_96x96.png",
             "escudo_dos" : "https://ssl.gstatic.com/onebox/media/sports/logos/9toerdOg8xW4CRhDaZxsyw_96x96.png",
-            "resultado" : "1-1",
-            "mvp" : "Wilder"
+            "resultado" : "1 (2) - (4) 1",
+            "mvp" : "Build Dominik Livakovic"
         },
         {
             "partido" : "Holanda vs Croacia",
