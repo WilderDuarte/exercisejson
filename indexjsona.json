@@ -12,25 +12,25 @@
             "mvp" : "Build Dominik Livakovic"
         },
         {
-            "partido" : "Holanda vs Croacia",
+            "partido" : "Holanda vs Argentina",
             "escudo_uno" : "https://ssl.gstatic.com/onebox/media/sports/logos/8GEqzfLegwFFpe6X2BODTg_96x96.png",
             "escudo_dos" : "https://ssl.gstatic.com/onebox/media/sports/logos/1xBWyjjkA6vEWopPK3lIPA_96x96.png",
-            "resultado" : "1-1",
-            "mvp" : "Wilder"
+            "resultado" : "2 (3) - (4) 2",
+            "mvp" : "Lionel Messi"
         },
         {
             "partido" : "Portugal vs Marruecos",
             "escudo_uno" : "https://ssl.gstatic.com/onebox/media/sports/logos/HJ3_2c4w791nZJj7n-Lj3Q_96x96.png",
             "escudo_dos" : "https://ssl.gstatic.com/onebox/media/sports/logos/I3gt2Ew39ux3GGdZ-4JE3g_96x96.png",
-            "resultado" : "1-1",
-            "mvp" : "Wilder"
+            "resultado" : "0-1",
+            "mvp" : "Yassine Bounou"
         },
         {
             "partido" : "Francia vs Inglaterra",
             "escudo_uno" : "https://ssl.gstatic.com/onebox/media/sports/logos/z3JEQB3coEAGLCJBEUzQ2A_96x96.png",
             "escudo_dos" : "https://ssl.gstatic.com/onebox/media/sports/logos/DTqIL8Ba3KIuxGkpXw5ayA_96x96.png",
-            "resultado" : "1-1",
-            "mvp" : "Wilder"
+            "resultado" : "2-1",
+            "mvp" : "Oliver Giroud"
         }
     ]
 }
